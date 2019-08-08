@@ -1,4 +1,4 @@
-# sasioyk
+# Sasiyok
 Steps to run on devices: <br>
 
 • Clone this repository <br>
